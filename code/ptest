@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#TFILE=models.tar
+TFILE=../Windows7.iso
+RESULTS=presults-big.txt
+
+for BLOCK_SIZE in 1 9
+do
+
+	for THREADS in 1 2 4 8 16 24 32 40 48 56 64
+	do
+		echo "Running test: pbzip2 -$BLOCK_SIZE -b$BLOCK_SIZE -p$THREADS -k $TFILE"
+		/usr/bin/time -f "%C elapsed %E" -o $RESULTS -a ./pbzip2 -$BLOCK_SIZE -b$BLOCK_SIZE -p$THREADS -k $TFILE
+		#./pbzip2 -$BLOCK_SIZE -b$BLOCK_SIZE -p$THREADS -k $TFILE
+		#./tpbzip2 $TFILE $BLOCK_SIZE $THREADS $QUEUE_TYPE | tee -a $RESULTS
+		tail --lines=1 $RESULTS
+		rm -f $TFILE.bz2
+	done
+
+done
+

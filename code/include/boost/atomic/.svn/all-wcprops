@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/boost/!svn/ver/80530/trunk/boost/atomic
+END
+platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/boost/!svn/ver/80525/trunk/boost/atomic/platform.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/boost/!svn/ver/80530/trunk/boost/atomic/config.hpp
+END

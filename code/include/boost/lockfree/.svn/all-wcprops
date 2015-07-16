@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/boost/!svn/ver/80372/trunk/boost/lockfree
+END
+spsc_queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/boost/!svn/ver/80371/trunk/boost/lockfree/spsc_queue.hpp
+END
+queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/boost/!svn/ver/80371/trunk/boost/lockfree/queue.hpp
+END
+stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/boost/!svn/ver/80371/trunk/boost/lockfree/stack.hpp
+END
+policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/boost/!svn/ver/79195/trunk/boost/lockfree/policies.hpp
+END

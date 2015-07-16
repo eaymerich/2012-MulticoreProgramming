@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/boost/!svn/ver/80530/trunk/boost/atomic/detail
+END
+lockpool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/boost/!svn/ver/80530/trunk/boost/atomic/detail/lockpool.hpp
+END
+cas32weak.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/79616/trunk/boost/atomic/detail/cas32weak.hpp
+END
+gcc-armv6plus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/80526/trunk/boost/atomic/detail/gcc-armv6plus.hpp
+END
+gcc-cas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/gcc-cas.hpp
+END
+type-classifier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/type-classifier.hpp
+END
+interlocked.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/79615/trunk/boost/atomic/detail/interlocked.hpp
+END
+cas32strong.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/cas32strong.hpp
+END
+base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/base.hpp
+END
+linux-arm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/linux-arm.hpp
+END
+gcc-ppc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/gcc-ppc.hpp
+END
+cas64strong.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/cas64strong.hpp
+END
+gcc-x86.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/boost/!svn/ver/80527/trunk/boost/atomic/detail/gcc-x86.hpp
+END
+gcc-alpha.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/gcc-alpha.hpp
+END
+generic-cas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/79348/trunk/boost/atomic/detail/generic-cas.hpp
+END
+gcc-sparcv9.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/80527/trunk/boost/atomic/detail/gcc-sparcv9.hpp
+END
